@@ -3,6 +3,7 @@ Feature: Login Feature
   Background: User should be on demo site
     Given user should be on demo Guru site
     #And user navigates to Bank Project
+    #new changes
 
   Scenario: TC-101 User should be able to login with valid UserName and valid Password
 
